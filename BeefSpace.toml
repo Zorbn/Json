@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {Json = {Path = "."}}
+
+[Workspace]
+StartupProject = "Json"
